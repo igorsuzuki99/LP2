@@ -1,0 +1,35 @@
+.div-center {
+  padding-top:50px;
+  margin-top: 10px;
+  margin-right: 100px;
+  margin-bottom: 10px;
+  margin-left: 170px;
+
+}
+
+.container {
+ background-color: darkblue;
+ width:600px;
+ height:500px;
+  border-radius: 30px;
+  margin-left:400px;
+  margin-right:200px;
+  margin-top:100px;
+
+}
+
+.button {
+  background-color: black;
+  color: white;
+  padding: 16px 64px;
+  text-align: center;
+  font-size: 24px;
+  border-radius: 24px;
+}
+
+input{
+    width: 250px;
+    height: 25px;
+    border-radius: 20px;
+    padding: 0 15px 0 15px;
+}
